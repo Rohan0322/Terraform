@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 
 Adding the content from dev branch
 
 Adding the content to the file123
 
 Adding the content from master branch to check the stash>>>>>>>>>>
+=======
+>>>>>>> parent of 24e0fd0... adding content to the file123
