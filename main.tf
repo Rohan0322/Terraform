@@ -16,10 +16,6 @@ module "m3"{
 	content = "content from module 3 Absolute path" 
 }
 
-module "m4" {
-	source = "github.com/Rohan0322/Terraform.git"
-}
-
 variable "mf" {
   default = "mfile1"
 }
