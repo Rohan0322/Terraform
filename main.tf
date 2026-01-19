@@ -11,7 +11,7 @@ module "m2" {
 }
 
 module "m3"{
-	source = "/home/rohan/Terraform/Modules/myfolder"
+	source = "github.com/Rohan0322/Terraform//myfolder"
 	file1 = "mfile3"
 	content = "content from module 3 Absolute path" 
 }
